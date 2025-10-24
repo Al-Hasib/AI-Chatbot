@@ -1,0 +1,21 @@
+Django==5.0.1
+djangorestframework==3.14.0
+psycopg2-binary==2.9.9
+pgvector==0.2.4
+python-dotenv==1.0.0
+django-cors-headers==4.3.1
+
+# LangChain and LangGraph
+langchain==0.1.6
+langchain-groq==0.0.1
+langchain-openai==0.0.5
+langchain-core==0.1.20
+langgraph==0.0.20
+
+# Embeddings
+sentence-transformers==2.3.1
+torch==2.1.2
+numpy==1.26.3
+
+# Utilities
+requests==2.31.0
